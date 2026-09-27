@@ -1,7 +1,7 @@
 {
-  "versionCode": 10201,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/danrley123/autoupdate/releases/download/v1.2.0/JellyServer.apk",
+  "versionCode": 10301,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/danrley123/autoupdate/releases/download/v1.3.0/App-Release.apk",
   "changelog": "Novos canais adicionados, melhorias de desempenho e correções!",
   "forceUpdate": false
 }
